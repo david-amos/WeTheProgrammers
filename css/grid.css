@@ -1,0 +1,59 @@
+.themed-grid-col{
+  	padding-top: 15px;
+  	padding-bottom: 15px;
+}
+
+.themed-container{
+  	padding: 15px;
+  	margin-bottom: 20px;
+  	background-color: rgba(0, 123, 255, .15);
+  	border: 1px solid rgba(0, 123, 255, .2);
+}
+
+
+header{
+    height: 200px;
+    background-position: center;
+	margin-bottom: 25px;
+	margin-top: 25px;
+}
+
+
+body{
+ 	background-image: url("../images/parchment.jpg");
+ 	background-color: #D8AA6C;
+}
+
+@font-face{
+	font-family: myFirstFont;
+  	src: url("../fonts/fonts/declaration.ttf");
+}
+
+h1{
+    color: black;
+    margin:0;
+    padding-top: 55px;
+    font-size: 6em;
+    text-align: center;
+    font-family: myFirstFont;
+}
+
+h3{
+	font-family: myFirstFont;
+}
+
+p{
+	font-family: 'Monotype Corsiva';
+	font-size: 1.5em;
+}
+
+.btyb{
+	font-family: myFirstFont;
+	text-align: center;
+	padding-left: 700px;
+}
+
+
+
+
+
